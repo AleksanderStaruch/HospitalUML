@@ -1,6 +1,6 @@
-<mxfile modified="2020-04-29T22:19:08.492Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="dTMKhI_QpBaOfxtMfG6x" version="13.0.2" type="github" pages="2">
+<mxfile modified="2020-06-06T21:35:52.358Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="3f6Eos2iaKUlsQ1gtCXc" version="13.1.14" type="github" pages="2">
   <diagram id="T34uIwSaDnBM8WevRqWh" name="class">
-    <mxGraphModel dx="1276" dy="1451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1865" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -261,13 +261,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bHVNC20wXIVItzgnzhsU-26" value="{complete}" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="-499" y="-60.5" width="70" height="20" as="geometry" />
+          <mxGeometry x="-593.5" y="246.5" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bHVNC20wXIVItzgnzhsU-28" value="{complete,overlapping}" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="-710.6095145089286" y="530.5" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bHVNC20wXIVItzgnzhsU-41" value="{complete}" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="-372.5" y="92.5" width="70" height="20" as="geometry" />
+          <mxGeometry x="-598.5" y="43.5" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bHVNC20wXIVItzgnzhsU-83" value="{mało inwazyjny,&lt;br&gt;inwazyjny,&lt;br&gt;normalny,&lt;br&gt;niebezpieczny}" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" parent="1" vertex="1">
           <mxGeometry x="348.5" y="81.5" width="119" height="70" as="geometry" />
@@ -470,21 +470,6 @@
         <mxCell id="V0LmtOdD6tVDb5vqFVER-100" value="przeprowadź zabieg() {abstract}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="V0LmtOdD6tVDb5vqFVER-97" vertex="1">
           <mxGeometry y="68" width="190" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="bHVNC20wXIVItzgnzhsU-70" value="Recepcjonista" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="-502.5" y="11.5" width="130" height="112" as="geometry" />
-        </mxCell>
-        <mxCell id="bHVNC20wXIVItzgnzhsU-71" value="login" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="bHVNC20wXIVItzgnzhsU-70" vertex="1">
-          <mxGeometry y="26" width="130" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="bHVNC20wXIVItzgnzhsU-74" value="haslo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="bHVNC20wXIVItzgnzhsU-70" vertex="1">
-          <mxGeometry y="52" width="130" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="bHVNC20wXIVItzgnzhsU-72" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="bHVNC20wXIVItzgnzhsU-70" vertex="1">
-          <mxGeometry y="78" width="130" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="V0LmtOdD6tVDb5vqFVER-267" value="zarejestruj pacjenta()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="bHVNC20wXIVItzgnzhsU-70" vertex="1">
-          <mxGeometry y="86" width="130" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="V0LmtOdD6tVDb5vqFVER-140" value="Ordynator" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="-637.5" y="611.5" width="194" height="112" as="geometry" />
         </mxCell>
@@ -631,14 +616,26 @@
         <mxCell id="V0LmtOdD6tVDb5vqFVER-81" value="przeprowadzZabieg()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="V0LmtOdD6tVDb5vqFVER-78" vertex="1">
           <mxGeometry y="60" width="130" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="mv_vbtAFPZeRFFXc5anM-1" value="pesel" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+        <mxCell id="mv_vbtAFPZeRFFXc5anM-1" value="pesel" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="138" y="-83.5" width="32" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="mv_vbtAFPZeRFFXc5anM-2" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="V0LmtOdD6tVDb5vqFVER-145" target="mv_vbtAFPZeRFFXc5anM-1">
+        <mxCell id="mv_vbtAFPZeRFFXc5anM-2" value="" style="endArrow=none;html=1;" parent="1" source="V0LmtOdD6tVDb5vqFVER-145" target="mv_vbtAFPZeRFFXc5anM-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="159" y="-60" as="sourcePoint" />
             <mxPoint x="159" y="-98.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bHVNC20wXIVItzgnzhsU-70" value="Recepcjonista" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="-502.5" y="26.5" width="130" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="bHVNC20wXIVItzgnzhsU-74" value="jezyki[1..*]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="bHVNC20wXIVItzgnzhsU-70" vertex="1">
+          <mxGeometry y="26" width="130" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bHVNC20wXIVItzgnzhsU-72" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="bHVNC20wXIVItzgnzhsU-70" vertex="1">
+          <mxGeometry y="52" width="130" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="V0LmtOdD6tVDb5vqFVER-267" value="zarejestruj pacjenta()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="bHVNC20wXIVItzgnzhsU-70" vertex="1">
+          <mxGeometry y="60" width="130" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
