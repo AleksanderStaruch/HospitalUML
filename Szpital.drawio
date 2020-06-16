@@ -1,4 +1,4 @@
-<mxfile modified="2020-06-16T15:32:34.929Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="H2TByAhtlaQB9JjdJ4kS" version="13.2.4" type="github" pages="3">
+<mxfile modified="2020-06-16T15:52:00.075Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="ca0mGt2cBR1mmIC91Czx" version="13.2.4" type="github" pages="3">
   <diagram id="T34uIwSaDnBM8WevRqWh" name="class">
     <mxGraphModel dx="1612" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -807,7 +807,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-I-d2rn_HJoYggDR3LDM" name="przykład urzycia">
-    <mxGraphModel dx="538" dy="338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="449" dy="282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Zpw6BI1jtUPrYjQRKkdR-0" />
         <mxCell id="Zpw6BI1jtUPrYjQRKkdR-1" parent="Zpw6BI1jtUPrYjQRKkdR-0" />
@@ -843,8 +843,79 @@
         <mxCell id="Zpw6BI1jtUPrYjQRKkdR-9" value="Lekarz wybiera pacjenta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zpw6BI1jtUPrYjQRKkdR-1">
           <mxGeometry x="35" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zpw6BI1jtUPrYjQRKkdR-11" value="System sprawdza czy&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zpw6BI1jtUPrYjQRKkdR-1">
+        <mxCell id="OW8d97aQ1twiBJyPLTS2-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;strokeColor=#000000;" edge="1" parent="Zpw6BI1jtUPrYjQRKkdR-1" source="Zpw6BI1jtUPrYjQRKkdR-11" target="OW8d97aQ1twiBJyPLTS2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zpw6BI1jtUPrYjQRKkdR-11" value="System sprawdza czy pacjent nie został wypisany wcześniej ze szpitala." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zpw6BI1jtUPrYjQRKkdR-1">
           <mxGeometry x="35" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OW8d97aQ1twiBJyPLTS2-2" value="Czy pacjent nie został wypisany wcześniej ze szpitala." style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="Zpw6BI1jtUPrYjQRKkdR-1">
+          <mxGeometry x="12.5" y="790" width="165" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OW8d97aQ1twiBJyPLTS2-3" value="Nie" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=classicThin;endSize=8;strokeColor=#000000;endFill=1;" edge="1" source="OW8d97aQ1twiBJyPLTS2-2" parent="Zpw6BI1jtUPrYjQRKkdR-1" target="OW8d97aQ1twiBJyPLTS2-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="990" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OW8d97aQ1twiBJyPLTS2-4" value="Tak" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=classicThin;endSize=8;strokeColor=#000000;endFill=1;" edge="1" source="OW8d97aQ1twiBJyPLTS2-2" parent="Zpw6BI1jtUPrYjQRKkdR-1" target="OW8d97aQ1twiBJyPLTS2-7">
+          <mxGeometry x="-0.3333" relative="1" as="geometry">
+            <mxPoint x="260" y="850" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OW8d97aQ1twiBJyPLTS2-5" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="Zpw6BI1jtUPrYjQRKkdR-1">
+          <mxGeometry x="315" y="940" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OW8d97aQ1twiBJyPLTS2-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;strokeColor=#000000;" edge="1" parent="Zpw6BI1jtUPrYjQRKkdR-1" source="OW8d97aQ1twiBJyPLTS2-7" target="OW8d97aQ1twiBJyPLTS2-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OW8d97aQ1twiBJyPLTS2-7" value="System informuje o braku mozliwosci wypisania pacjenta ze szpital." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zpw6BI1jtUPrYjQRKkdR-1">
+          <mxGeometry x="270" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OW8d97aQ1twiBJyPLTS2-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;strokeColor=#000000;" edge="1" parent="Zpw6BI1jtUPrYjQRKkdR-1" source="OW8d97aQ1twiBJyPLTS2-17" target="OW8d97aQ1twiBJyPLTS2-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="1060" as="sourcePoint" />
+            <mxPoint x="95" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OW8d97aQ1twiBJyPLTS2-11" value="Nie" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=classicThin;endSize=8;strokeColor=#000000;endFill=1;" edge="1" parent="Zpw6BI1jtUPrYjQRKkdR-1" source="OW8d97aQ1twiBJyPLTS2-16" target="OW8d97aQ1twiBJyPLTS2-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="1300" as="targetPoint" />
+            <mxPoint x="95" y="1240" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OW8d97aQ1twiBJyPLTS2-12" value="Tak" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=classicThin;endSize=8;strokeColor=#000000;endFill=1;" edge="1" parent="Zpw6BI1jtUPrYjQRKkdR-1" target="OW8d97aQ1twiBJyPLTS2-18" source="OW8d97aQ1twiBJyPLTS2-16">
+          <mxGeometry x="-0.4283" relative="1" as="geometry">
+            <mxPoint x="95" y="1310" as="targetPoint" />
+            <mxPoint x="177.5" y="1170" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OW8d97aQ1twiBJyPLTS2-13" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="Zpw6BI1jtUPrYjQRKkdR-1">
+          <mxGeometry x="270" y="1250" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OW8d97aQ1twiBJyPLTS2-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;strokeColor=#000000;" edge="1" parent="Zpw6BI1jtUPrYjQRKkdR-1" source="OW8d97aQ1twiBJyPLTS2-15" target="OW8d97aQ1twiBJyPLTS2-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OW8d97aQ1twiBJyPLTS2-15" value="System informuje o braku mozliwosci wypisania pacjenta ze szpital." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zpw6BI1jtUPrYjQRKkdR-1">
+          <mxGeometry x="225" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OW8d97aQ1twiBJyPLTS2-16" value="Czy stan zdrowia pacjenta pozwala na wypis." style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="Zpw6BI1jtUPrYjQRKkdR-1">
+          <mxGeometry x="36.25" y="1100" width="117.5" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OW8d97aQ1twiBJyPLTS2-17" value="System sprawdza czy stan zdrowia pacjenta pozwala na wypis." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zpw6BI1jtUPrYjQRKkdR-1">
+          <mxGeometry x="35" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OW8d97aQ1twiBJyPLTS2-20" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;strokeColor=#000000;" edge="1" parent="Zpw6BI1jtUPrYjQRKkdR-1" source="OW8d97aQ1twiBJyPLTS2-18" target="OW8d97aQ1twiBJyPLTS2-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OW8d97aQ1twiBJyPLTS2-18" value="System wyświetla dane pacjenta i czeka na potwierdzenie i opis wypisu ze szpitala." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zpw6BI1jtUPrYjQRKkdR-1">
+          <mxGeometry x="32.5" y="1320" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OW8d97aQ1twiBJyPLTS2-19" value="Lekarz podaje opis wypisu ze szpital i potwierdza wypis.&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zpw6BI1jtUPrYjQRKkdR-1">
+          <mxGeometry x="35" y="1460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
