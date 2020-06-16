@@ -1,4 +1,4 @@
-<mxfile modified="2020-06-16T22:15:13.993Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="pQEALpJwJxvq8c9ixrwW" version="13.2.4" type="github" pages="7">
+<mxfile modified="2020-06-16T22:50:26.295Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="grbygirqM1WbCt-f6nuy" version="13.2.4" type="github" pages="7">
   <diagram id="T34uIwSaDnBM8WevRqWh" name="class">
     <mxGraphModel dx="1935" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -834,7 +834,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-I-d2rn_HJoYggDR3LDM" name="przykład urzycia">
-    <mxGraphModel dx="1346" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="650" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Zpw6BI1jtUPrYjQRKkdR-0" />
         <mxCell id="Zpw6BI1jtUPrYjQRKkdR-1" parent="Zpw6BI1jtUPrYjQRKkdR-0" />
@@ -1448,15 +1448,253 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yl226ZeDPF_IGyPiEblP" name="GUII">
-    <mxGraphModel dx="942" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1570" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="w2tuwKe-_Pr6iPQ5L-9L-0" />
         <mxCell id="w2tuwKe-_Pr6iPQ5L-9L-1" parent="w2tuwKe-_Pr6iPQ5L-9L-0" />
         <mxCell id="POLAgJSnx6d_7CC1mMT--5" value="Window Title" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
-          <mxGeometry x="20" y="30" width="760" height="410" as="geometry" />
+          <mxGeometry x="10" y="10" width="760" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="4jT4eX6_qf3uhL4F8Ck5-25" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.navigation.stepBar;strokeColor=#c4c4c4;textColor=#666666;textColor2=#008cff;mainText=Layer 1,Layer 2,+Layer 3,Layer 4;textSize=17;fillColor=#666666;overflow=fill;fontSize=17;fontColor=#666666;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
-          <mxGeometry x="40" y="70" width="300" height="50" as="geometry" />
+        <mxCell id="irXYUjul6BHAFApvHu_1-0" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.navigation.stepBar;strokeColor=#c4c4c4;textColor=#666666;textColor2=#008cff;mainText=+Wybór pacjenta, Dane pacjenta, Podanie opisu, Wydruk wypisu;textSize=17;fillColor=#666666;overflow=fill;fontSize=17;fontColor=#666666;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="20" y="120" width="590" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.multiButton;fillColor=#008cff;strokeColor=#666666;mainText=;subText=;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="20" y="50" width="590" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-3" value="Wypis ze szpitala" style="strokeWidth=1;shadow=0;dashed=0;align=left;html=1;shape=mxgraph.mockup.anchor;fontSize=16;fontColor=#ffffff;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="irXYUjul6BHAFApvHu_1-2">
+          <mxGeometry y="8" width="590" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-5" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fillColor=#ffffff;recursiveResize=0;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="30" y="190" width="400" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-6" value="Michał Masa" style="shape=ellipse;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;html=1;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="irXYUjul6BHAFApvHu_1-5">
+          <mxGeometry x="8" y="7.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-7" value="Szymon Szczur" style="shape=ellipse;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;html=1;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="irXYUjul6BHAFApvHu_1-5">
+          <mxGeometry x="8" y="37.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-8" value="Adam Awokado" style="shape=ellipse;rSize=0;fillColor=#aaaaaa;strokeColor=#444444;gradientColor=#666666;html=1;align=left;spacingLeft=4;fontSize=17;fontColor=#008cff;labelPosition=right;" vertex="1" parent="irXYUjul6BHAFApvHu_1-5">
+          <mxGeometry x="8" y="67.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-9" value="" style="shape=ellipse;fillColor=#444444;strokeColor=none;html=1;" vertex="1" parent="irXYUjul6BHAFApvHu_1-8">
+          <mxGeometry x="3" y="3" width="9" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-10" value="Tomasz Zdrowy" style="shape=ellipse;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;html=1;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="irXYUjul6BHAFApvHu_1-5">
+          <mxGeometry x="8" y="97.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-131" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.scrollBar;strokeColor=#999999;barPos=100;fillColor2=#99ddff;strokeColor2=none;direction=north;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="irXYUjul6BHAFApvHu_1-5">
+          <mxGeometry x="380" width="20" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-13" value="Ok" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="30" y="350" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-14" value="Anuluj" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="230" y="350" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-16" value="Window Title" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="10" y="460" width="760" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-17" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.navigation.stepBar;strokeColor=#c4c4c4;textColor=#666666;textColor2=#008cff;mainText=Wybór pacjenta,+Dane pacjenta,Podanie opisu,Wydruk wypisu;textSize=17;fillColor=#666666;overflow=fill;fontSize=17;fontColor=#666666;strokeOpacity=100;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="20" y="570" width="590" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-18" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.multiButton;fillColor=#008cff;strokeColor=#666666;mainText=;subText=;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="20" y="500" width="590" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-19" value="Wypis ze szpitala" style="strokeWidth=1;shadow=0;dashed=0;align=left;html=1;shape=mxgraph.mockup.anchor;fontSize=16;fontColor=#ffffff;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="irXYUjul6BHAFApvHu_1-18">
+          <mxGeometry y="8" width="590" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-26" value="Ok" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="30" y="800" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-27" value="Anuluj" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="230" y="800" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-29" value="Window Title" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="10" y="920" width="760" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-30" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.navigation.stepBar;strokeColor=#c4c4c4;textColor=#666666;textColor2=#008cff;mainText=Wybór pacjenta, Dane pacjenta,+Podanie opisu, Wydruk wypisu;textSize=17;fillColor=#666666;overflow=fill;fontSize=17;fontColor=#666666;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="20" y="1030" width="590" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-31" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.multiButton;fillColor=#008cff;strokeColor=#666666;mainText=;subText=;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="20" y="960" width="590" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-32" value="Wypis ze szpitala" style="strokeWidth=1;shadow=0;dashed=0;align=left;html=1;shape=mxgraph.mockup.anchor;fontSize=16;fontColor=#ffffff;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="irXYUjul6BHAFApvHu_1-31">
+          <mxGeometry y="8" width="590" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-39" value="Ok" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="30" y="1260" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-40" value="Anuluj" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="230" y="1260" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-41" value="Window Title" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="10" y="1370" width="760" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-42" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.navigation.stepBar;strokeColor=#c4c4c4;textColor=#666666;textColor2=#008cff;mainText=Wybór pacjenta,Dane pacjenta,Podanie opisu,+Wydruk wypisu;textSize=17;fillColor=#666666;overflow=fill;fontSize=17;fontColor=#666666;strokeOpacity=100;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="20" y="1480" width="590" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-43" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.multiButton;fillColor=#008cff;strokeColor=#666666;mainText=;subText=;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="20" y="1410" width="590" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-44" value="Wypis ze szpitala" style="strokeWidth=1;shadow=0;dashed=0;align=left;html=1;shape=mxgraph.mockup.anchor;fontSize=16;fontColor=#ffffff;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="irXYUjul6BHAFApvHu_1-43">
+          <mxGeometry y="8" width="590" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-51" value="Ok" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="30" y="1710" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-52" value="Anuluj" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="230" y="1710" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-56" value="" style="strokeColor=#999999;verticalLabelPosition=bottom;shadow=0;dashed=0;verticalAlign=top;strokeWidth=2;html=1;shape=mxgraph.mockup.misc.printIcon;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="180" y="1600" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-57" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;br&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur,&amp;nbsp;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="30" y="1090" width="680" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-58" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.scrollBar;strokeColor=#999999;barPos=85.257;fillColor2=#99ddff;strokeColor2=none;direction=north;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="740" y="500" width="20" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-59" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.scrollBar;strokeColor=#999999;barPos=85.257;fillColor2=#99ddff;strokeColor2=none;direction=north;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="740" y="960" width="20" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-60" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.scrollBar;strokeColor=#999999;barPos=85.257;fillColor2=#99ddff;strokeColor2=none;direction=north;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="740" y="50" width="20" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-61" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.scrollBar;strokeColor=#999999;barPos=85.257;fillColor2=#99ddff;strokeColor2=none;direction=north;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="740" y="1410" width="20" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-62" value="Imie" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;align=right;spacingRight=2;fontColor=#666666;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="50" y="630" width="50" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-63" value="Adam" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="100" y="630" width="113" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-73" value="Nazwisko" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;align=right;spacingRight=2;fontColor=#666666;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="50" y="648" width="50" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-74" value="Awokado" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="100" y="648" width="113" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-75" value="Data urodzenia" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;align=right;spacingRight=2;fontColor=#666666;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="50" y="666" width="50" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-76" value="31-01-1998" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="100" y="666" width="113" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-77" value="Wiek" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;align=right;spacingRight=2;fontColor=#666666;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="50" y="684" width="50" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-78" value="22 lata" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="100" y="684" width="113" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-94" value="Płeć" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;align=right;spacingRight=2;fontColor=#666666;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="50" y="702" width="50" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-95" value="mężczyzna" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="100" y="702" width="113" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-102" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fillColor=#ffffff;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="264" y="630" width="436" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-103" value="Zabiegi z tego pobuty" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#008cff;fontSize=17;fillColor=#ffffff;resizeWidth=1;" vertex="1" parent="irXYUjul6BHAFApvHu_1-102">
+          <mxGeometry width="436" height="30" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-104" value="Morfologia (10 dni temu)" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="irXYUjul6BHAFApvHu_1-102">
+          <mxGeometry width="436" height="20" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-105" value="Operacja wyrostka&amp;nbsp;(9 dni temu)" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="irXYUjul6BHAFApvHu_1-102">
+          <mxGeometry width="436" height="20" relative="1" as="geometry">
+            <mxPoint y="50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-106" value="Rezonans magnetyczny tułowia (7 dni temu)" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;fillColor=none;strokeColor=none;resizeWidth=1;" vertex="1" parent="irXYUjul6BHAFApvHu_1-102">
+          <mxGeometry width="436" height="20" relative="1" as="geometry">
+            <mxPoint y="70" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-107" value="Wycięcie woreczka&amp;nbsp;żółciowego&amp;nbsp;(6 dni temu)" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="irXYUjul6BHAFApvHu_1-102">
+          <mxGeometry width="436" height="20" relative="1" as="geometry">
+            <mxPoint y="90" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-132" value="Window Title" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="10" y="1840" width="760" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-133" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.navigation.stepBar;strokeColor=#c4c4c4;textColor=#666666;textColor2=#008cff;mainText=+Wybór pacjenta, Dane pacjenta, Podanie opisu, Wydruk wypisu;textSize=17;fillColor=#666666;overflow=fill;fontSize=17;fontColor=#666666;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="20" y="1950" width="590" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-134" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.multiButton;fillColor=#008cff;strokeColor=#666666;mainText=;subText=;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="20" y="1880" width="590" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-135" value="Wypis ze szpitala" style="strokeWidth=1;shadow=0;dashed=0;align=left;html=1;shape=mxgraph.mockup.anchor;fontSize=16;fontColor=#ffffff;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="irXYUjul6BHAFApvHu_1-134">
+          <mxGeometry y="8" width="590" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-136" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fillColor=#ffffff;recursiveResize=0;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="30" y="2020" width="400" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-137" value="Michał Masa" style="shape=ellipse;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;html=1;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="irXYUjul6BHAFApvHu_1-136">
+          <mxGeometry x="8" y="7.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-138" value="Szymon Szczur" style="shape=ellipse;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;html=1;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="irXYUjul6BHAFApvHu_1-136">
+          <mxGeometry x="8" y="37.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-139" value="Adam Awokado" style="shape=ellipse;rSize=0;fillColor=#aaaaaa;strokeColor=#444444;gradientColor=#666666;html=1;align=left;spacingLeft=4;fontSize=17;fontColor=#008cff;labelPosition=right;" vertex="1" parent="irXYUjul6BHAFApvHu_1-136">
+          <mxGeometry x="8" y="67.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-140" value="" style="shape=ellipse;fillColor=#444444;strokeColor=none;html=1;" vertex="1" parent="irXYUjul6BHAFApvHu_1-139">
+          <mxGeometry x="3" y="3" width="9" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-141" value="Tomasz Zdrowy" style="shape=ellipse;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;html=1;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="irXYUjul6BHAFApvHu_1-136">
+          <mxGeometry x="8" y="97.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-142" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.scrollBar;strokeColor=#999999;barPos=100;fillColor2=#99ddff;strokeColor2=none;direction=north;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="irXYUjul6BHAFApvHu_1-136">
+          <mxGeometry x="380" width="20" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-143" value="Ok" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="30" y="2180" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-144" value="Anuluj" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="230" y="2180" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-145" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.scrollBar;strokeColor=#999999;barPos=85.257;fillColor2=#99ddff;strokeColor2=none;direction=north;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="740" y="1880" width="20" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-146" value="Alternatyna" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="10" y="1800" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-147" value="Braku możliwości wypisania pacjenta ze szpital." style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;strokeColor=#666666;fontColor=#666666;fontSize=17;verticalAlign=top;whiteSpace=wrap;fillColor=#ffffff;spacingTop=32;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="40" y="2320" width="250" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-148" value="Message Title" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;strokeColor=#666666;align=left;spacingLeft=8;fillColor=#ffffff;resizeWidth=1;" vertex="1" parent="irXYUjul6BHAFApvHu_1-147">
+          <mxGeometry width="250" height="30" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-149" value="" style="shape=ellipse;strokeColor=#008cff;resizable=0;fillColor=none;html=1;" vertex="1" parent="irXYUjul6BHAFApvHu_1-148">
+          <mxGeometry x="1" y="0.5" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-25" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-150" value="Exit" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=16;fontColor=#666666;strokeColor=#c4c4c4;resizable=0;whiteSpace=wrap;fillColor=#ffffff;" vertex="1" parent="irXYUjul6BHAFApvHu_1-147">
+          <mxGeometry x="0.5" y="1" width="120" height="25" relative="1" as="geometry">
+            <mxPoint x="-60" y="-33" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-151" value="Braku możliwości wypisania pacjenta ze szpital, nie odczekano odpowiedniego czasu po zabiegu." style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;strokeColor=#666666;fontColor=#666666;fontSize=17;verticalAlign=top;whiteSpace=wrap;fillColor=#ffffff;spacingTop=32;" vertex="1" parent="w2tuwKe-_Pr6iPQ5L-9L-1">
+          <mxGeometry x="357" y="2320" width="250" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-152" value="Message Title" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;strokeColor=#666666;align=left;spacingLeft=8;fillColor=#ffffff;resizeWidth=1;" vertex="1" parent="irXYUjul6BHAFApvHu_1-151">
+          <mxGeometry width="250" height="30" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-153" value="" style="shape=ellipse;strokeColor=#008cff;resizable=0;fillColor=none;html=1;" vertex="1" parent="irXYUjul6BHAFApvHu_1-152">
+          <mxGeometry x="1" y="0.5" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-25" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irXYUjul6BHAFApvHu_1-154" value="Exit" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=16;fontColor=#666666;strokeColor=#c4c4c4;resizable=0;whiteSpace=wrap;fillColor=#ffffff;" vertex="1" parent="irXYUjul6BHAFApvHu_1-151">
+          <mxGeometry x="0.5" y="1" width="120" height="25" relative="1" as="geometry">
+            <mxPoint x="-60" y="-33" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
