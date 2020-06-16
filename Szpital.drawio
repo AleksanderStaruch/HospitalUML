@@ -1,6 +1,6 @@
-<mxfile modified="2020-06-16T16:13:29.892Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="8biakPjGPJylQshGtG3C" version="13.2.4" type="github" pages="3">
+<mxfile modified="2020-06-16T16:14:45.747Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="HmpsG3IroB3TTENUuSYE" version="13.2.4" type="github" pages="3">
   <diagram id="T34uIwSaDnBM8WevRqWh" name="class">
-    <mxGraphModel dx="1612" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1692" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -510,21 +510,6 @@
         <mxCell id="V0LmtOdD6tVDb5vqFVER-100" value="przeprowadź zabieg() {abstract}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="V0LmtOdD6tVDb5vqFVER-97" vertex="1">
           <mxGeometry y="68" width="190" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="V0LmtOdD6tVDb5vqFVER-110" value="Lekarz" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="-690" y="766.5" width="194" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="V0LmtOdD6tVDb5vqFVER-111" value="specjalizacja" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="V0LmtOdD6tVDb5vqFVER-110" vertex="1">
-          <mxGeometry y="26" width="194" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="V0LmtOdD6tVDb5vqFVER-112" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="V0LmtOdD6tVDb5vqFVER-110" vertex="1">
-          <mxGeometry y="50" width="194" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="V0LmtOdD6tVDb5vqFVER-113" value="przeprowadzZabieg()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="V0LmtOdD6tVDb5vqFVER-110" vertex="1">
-          <mxGeometry y="58" width="194" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="V0LmtOdD6tVDb5vqFVER-233" value="wypiszPacjenta()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="V0LmtOdD6tVDb5vqFVER-110" vertex="1">
-          <mxGeometry y="84" width="194" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="V0LmtOdD6tVDb5vqFVER-15" value="Oddział" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="492.5" y="756.5" width="160" height="78" as="geometry">
             <mxRectangle x="422.5" y="756" width="80" height="26" as="alternateBounds" />
@@ -557,30 +542,6 @@
         <mxCell id="V0LmtOdD6tVDb5vqFVER-81" value="przeprowadzZabieg()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="V0LmtOdD6tVDb5vqFVER-78" vertex="1">
           <mxGeometry y="60" width="130" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="V0LmtOdD6tVDb5vqFVER-134" value="Chirurg" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="-661" y="937.5" width="132" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="V0LmtOdD6tVDb5vqFVER-135" value="dziedzina chirurgi" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="V0LmtOdD6tVDb5vqFVER-134" vertex="1">
-          <mxGeometry y="26" width="132" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="V0LmtOdD6tVDb5vqFVER-136" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="V0LmtOdD6tVDb5vqFVER-134" vertex="1">
-          <mxGeometry y="52" width="132" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="V0LmtOdD6tVDb5vqFVER-137" value="przeprowadzZabieg()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="V0LmtOdD6tVDb5vqFVER-134" vertex="1">
-          <mxGeometry y="60" width="132" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="V0LmtOdD6tVDb5vqFVER-140" value="Ordynator" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="-688" y="1056" width="194" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="V0LmtOdD6tVDb5vqFVER-141" value="data wyboru" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="V0LmtOdD6tVDb5vqFVER-140" vertex="1">
-          <mxGeometry y="26" width="194" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="V0LmtOdD6tVDb5vqFVER-142" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="V0LmtOdD6tVDb5vqFVER-140" vertex="1">
-          <mxGeometry y="52" width="194" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="V0LmtOdD6tVDb5vqFVER-143" value="przeprowadzZabieg()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="V0LmtOdD6tVDb5vqFVER-140" vertex="1">
-          <mxGeometry y="60" width="194" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="bHVNC20wXIVItzgnzhsU-70" value="Recepcjonista" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="-494" y="500" width="130" height="86" as="geometry" />
         </mxCell>
@@ -604,6 +565,51 @@
         </mxCell>
         <mxCell id="V0LmtOdD6tVDb5vqFVER-237" value="Telefon" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="V0LmtOdD6tVDb5vqFVER-1" vertex="1">
           <mxGeometry y="78" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="V0LmtOdD6tVDb5vqFVER-110" value="Lekarz" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="-692" y="750" width="194" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="V0LmtOdD6tVDb5vqFVER-111" value="specjalizacja" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="V0LmtOdD6tVDb5vqFVER-110" vertex="1">
+          <mxGeometry y="26" width="194" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="V0LmtOdD6tVDb5vqFVER-112" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="V0LmtOdD6tVDb5vqFVER-110" vertex="1">
+          <mxGeometry y="50" width="194" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="V0LmtOdD6tVDb5vqFVER-113" value="przeprowadzZabieg()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="V0LmtOdD6tVDb5vqFVER-110" vertex="1">
+          <mxGeometry y="58" width="194" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="V0LmtOdD6tVDb5vqFVER-233" value="wypiszPacjenta()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="V0LmtOdD6tVDb5vqFVER-110" vertex="1">
+          <mxGeometry y="84" width="194" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="h_LXLJgMfz5UDUMsIJph-1" value="wypiszAktZgonu()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="V0LmtOdD6tVDb5vqFVER-110">
+          <mxGeometry y="110" width="194" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="h_LXLJgMfz5UDUMsIJph-2" value="wypiszReceptę()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="V0LmtOdD6tVDb5vqFVER-110">
+          <mxGeometry y="136" width="194" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="V0LmtOdD6tVDb5vqFVER-134" value="Chirurg" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="-661" y="939" width="132" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="V0LmtOdD6tVDb5vqFVER-135" value="dziedzina chirurgi" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="V0LmtOdD6tVDb5vqFVER-134" vertex="1">
+          <mxGeometry y="26" width="132" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="V0LmtOdD6tVDb5vqFVER-136" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="V0LmtOdD6tVDb5vqFVER-134" vertex="1">
+          <mxGeometry y="52" width="132" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="V0LmtOdD6tVDb5vqFVER-137" value="przeprowadzZabieg()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="V0LmtOdD6tVDb5vqFVER-134" vertex="1">
+          <mxGeometry y="60" width="132" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="V0LmtOdD6tVDb5vqFVER-140" value="Ordynator" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="-694" y="1056" width="194" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="V0LmtOdD6tVDb5vqFVER-141" value="data wyboru" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="V0LmtOdD6tVDb5vqFVER-140" vertex="1">
+          <mxGeometry y="26" width="194" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="V0LmtOdD6tVDb5vqFVER-142" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="V0LmtOdD6tVDb5vqFVER-140" vertex="1">
+          <mxGeometry y="52" width="194" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="V0LmtOdD6tVDb5vqFVER-143" value="przeprowadzZabieg()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="V0LmtOdD6tVDb5vqFVER-140" vertex="1">
+          <mxGeometry y="60" width="194" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
