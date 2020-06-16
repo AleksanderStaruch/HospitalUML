@@ -1,6 +1,6 @@
-<mxfile modified="2020-06-16T16:17:23.796Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="pp7TbOfBjybTZrMNzLr9" version="13.2.4" type="github" pages="3">
+<mxfile modified="2020-06-16T16:27:02.109Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="FClnJjRw9xZOc0_1KHrf" version="13.2.4" type="github" pages="5">
   <diagram id="T34uIwSaDnBM8WevRqWh" name="class">
-    <mxGraphModel dx="1692" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1692" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -615,7 +615,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FM_yI3zF8epU7L87QcL2" name="actor">
-    <mxGraphModel dx="1221" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="-R-MOfN5qlVxSGHxa36g-0" />
         <mxCell id="-R-MOfN5qlVxSGHxa36g-1" parent="-R-MOfN5qlVxSGHxa36g-0" />
@@ -828,7 +828,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-I-d2rn_HJoYggDR3LDM" name="przykład urzycia">
-    <mxGraphModel dx="865" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Zpw6BI1jtUPrYjQRKkdR-0" />
         <mxCell id="Zpw6BI1jtUPrYjQRKkdR-1" parent="Zpw6BI1jtUPrYjQRKkdR-0" />
@@ -958,6 +958,22 @@
         <mxCell id="OW8d97aQ1twiBJyPLTS2-28" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="Zpw6BI1jtUPrYjQRKkdR-1">
           <mxGeometry x="138.75" y="1270" width="30" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Df-geG-JXZHQhgwejEsy" name="interakcji">
+    <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="gH-lYnmuvWhyT6VUHYb6-0" />
+        <mxCell id="gH-lYnmuvWhyT6VUHYb6-1" parent="gH-lYnmuvWhyT6VUHYb6-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yl226ZeDPF_IGyPiEblP" name="stanow">
+    <mxGraphModel dx="1038" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="w2tuwKe-_Pr6iPQ5L-9L-0" />
+        <mxCell id="w2tuwKe-_Pr6iPQ5L-9L-1" parent="w2tuwKe-_Pr6iPQ5L-9L-0" />
       </root>
     </mxGraphModel>
   </diagram>
