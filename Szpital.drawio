@@ -1,4 +1,4 @@
-<mxfile modified="2020-06-16T18:58:21.267Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="dmn2wghUOCjSpecltxC4" version="13.2.4" type="github" pages="6">
+<mxfile modified="2020-06-16T18:59:42.844Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="aX4FSMivXrQfHAAuwHkb" version="13.2.4" type="github" pages="6">
   <diagram id="T34uIwSaDnBM8WevRqWh" name="class">
     <mxGraphModel dx="1612" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -834,12 +834,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-I-d2rn_HJoYggDR3LDM" name="przykład urzycia">
-    <mxGraphModel dx="785" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1346" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Zpw6BI1jtUPrYjQRKkdR-0" />
         <mxCell id="Zpw6BI1jtUPrYjQRKkdR-1" parent="Zpw6BI1jtUPrYjQRKkdR-0" />
         <mxCell id="OW8d97aQ1twiBJyPLTS2-30" value="AD Wypis ze szpiatal" style="shape=umlFrame;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;width=142;height=30;" vertex="1" parent="Zpw6BI1jtUPrYjQRKkdR-1">
-          <mxGeometry x="10" y="20" width="570" height="1490" as="geometry" />
+          <mxGeometry x="10" y="20" width="527.5" height="1230" as="geometry" />
         </mxCell>
         <mxCell id="Zpw6BI1jtUPrYjQRKkdR-2" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=none;" vertex="1" parent="Zpw6BI1jtUPrYjQRKkdR-1">
           <mxGeometry x="155" y="50" width="30" height="30" as="geometry" />
@@ -881,7 +881,7 @@
         <mxCell id="OW8d97aQ1twiBJyPLTS2-2" value="Czy pacjent nie został wypisany wcześniej ze szpitala." style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="Zpw6BI1jtUPrYjQRKkdR-1">
           <mxGeometry x="87.5" y="470" width="165" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="OW8d97aQ1twiBJyPLTS2-3" value="Nie" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=classicThin;endSize=8;strokeColor=#000000;endFill=1;" edge="1" source="OW8d97aQ1twiBJyPLTS2-2" parent="Zpw6BI1jtUPrYjQRKkdR-1" target="r3QRXYd0p9TKrBd408pU-0">
+        <mxCell id="OW8d97aQ1twiBJyPLTS2-3" value="Nie" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=classicThin;endSize=8;strokeColor=#000000;endFill=1;" edge="1" source="OW8d97aQ1twiBJyPLTS2-2" parent="Zpw6BI1jtUPrYjQRKkdR-1" target="OW8d97aQ1twiBJyPLTS2-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="920" as="targetPoint" />
             <mxPoint x="170" y="620" as="sourcePoint" />
@@ -912,63 +912,57 @@
         </mxCell>
         <mxCell id="OW8d97aQ1twiBJyPLTS2-11" value="Nie" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=classicThin;endSize=8;strokeColor=#000000;endFill=1;" edge="1" parent="Zpw6BI1jtUPrYjQRKkdR-1" source="OW8d97aQ1twiBJyPLTS2-16" target="OW8d97aQ1twiBJyPLTS2-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="1330" as="targetPoint" />
-            <mxPoint x="170" y="1270" as="sourcePoint" />
+            <mxPoint x="170" y="1230" as="targetPoint" />
+            <mxPoint x="170" y="1170" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OW8d97aQ1twiBJyPLTS2-12" value="Tak" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=classicThin;endSize=8;strokeColor=#000000;endFill=1;" edge="1" parent="Zpw6BI1jtUPrYjQRKkdR-1" target="OW8d97aQ1twiBJyPLTS2-18" source="OW8d97aQ1twiBJyPLTS2-16">
           <mxGeometry x="-0.4283" relative="1" as="geometry">
-            <mxPoint x="170" y="1340" as="targetPoint" />
-            <mxPoint x="252.5" y="1200" as="sourcePoint" />
+            <mxPoint x="170" y="1240" as="targetPoint" />
+            <mxPoint x="252.5" y="1100" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OW8d97aQ1twiBJyPLTS2-13" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="Zpw6BI1jtUPrYjQRKkdR-1">
-          <mxGeometry x="370" y="1020" width="30" height="30" as="geometry" />
+          <mxGeometry x="370" y="920" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OW8d97aQ1twiBJyPLTS2-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;strokeColor=#000000;" edge="1" parent="Zpw6BI1jtUPrYjQRKkdR-1" source="OW8d97aQ1twiBJyPLTS2-15" target="OW8d97aQ1twiBJyPLTS2-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OW8d97aQ1twiBJyPLTS2-15" value="Lekarz&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zpw6BI1jtUPrYjQRKkdR-1">
-          <mxGeometry x="325" y="900" width="120" height="60" as="geometry" />
+        <mxCell id="OW8d97aQ1twiBJyPLTS2-15" value="System informuje o braku mozliwosci wypisania pacjenta ze szpital." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zpw6BI1jtUPrYjQRKkdR-1">
+          <mxGeometry x="325" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OW8d97aQ1twiBJyPLTS2-16" value="Czy stan zdrowia pacjenta pozwala na wypis." style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="Zpw6BI1jtUPrYjQRKkdR-1">
-          <mxGeometry x="111.25" y="860" width="117.5" height="140" as="geometry" />
+          <mxGeometry x="111.25" y="760" width="117.5" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="r3QRXYd0p9TKrBd408pU-1" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;strokeColor=#000000;" edge="1" parent="Zpw6BI1jtUPrYjQRKkdR-1" source="r3QRXYd0p9TKrBd408pU-0" target="OW8d97aQ1twiBJyPLTS2-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OW8d97aQ1twiBJyPLTS2-17" value="Lekarz podejmuje decyzje czy stan zdrowia pozwala na wypis ze szpitala." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zpw6BI1jtUPrYjQRKkdR-1">
-          <mxGeometry x="108.75" y="750" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="r3QRXYd0p9TKrBd408pU-0" value="System wyświetla dane pacjent oraz jego zabiegi z tego pobytu w szpitalu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zpw6BI1jtUPrYjQRKkdR-1">
-          <mxGeometry x="108.75" y="660" width="120" height="60" as="geometry" />
+        <mxCell id="OW8d97aQ1twiBJyPLTS2-17" value="System sprawdza czy stan zdrowia pacjenta pozwala na wypis." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zpw6BI1jtUPrYjQRKkdR-1">
+          <mxGeometry x="110" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OW8d97aQ1twiBJyPLTS2-20" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;strokeColor=#000000;" edge="1" parent="Zpw6BI1jtUPrYjQRKkdR-1" source="OW8d97aQ1twiBJyPLTS2-18" target="OW8d97aQ1twiBJyPLTS2-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="170" y="1130" />
+              <mxPoint x="170" y="1030" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OW8d97aQ1twiBJyPLTS2-18" value="System czeka na potwierdzenie i na podanie opis wypisu ze szpitala." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zpw6BI1jtUPrYjQRKkdR-1">
-          <mxGeometry x="107.5" y="1050" width="125" height="60" as="geometry" />
+        <mxCell id="OW8d97aQ1twiBJyPLTS2-18" value="System wyświetla dane pacjenta i czeka na potwierdzenie i opis wypisu ze szpitala." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zpw6BI1jtUPrYjQRKkdR-1">
+          <mxGeometry x="107.5" y="950" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OW8d97aQ1twiBJyPLTS2-25" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;strokeColor=#000000;" edge="1" parent="Zpw6BI1jtUPrYjQRKkdR-1" source="OW8d97aQ1twiBJyPLTS2-19" target="OW8d97aQ1twiBJyPLTS2-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OW8d97aQ1twiBJyPLTS2-19" value="Lekarz podaje opis wypisu ze szpital i potwierdza wypis.&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zpw6BI1jtUPrYjQRKkdR-1">
-          <mxGeometry x="111.25" y="1130" width="120" height="60" as="geometry" />
+          <mxGeometry x="111.25" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OW8d97aQ1twiBJyPLTS2-29" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;strokeColor=#000000;" edge="1" parent="Zpw6BI1jtUPrYjQRKkdR-1" source="OW8d97aQ1twiBJyPLTS2-24" target="OW8d97aQ1twiBJyPLTS2-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OW8d97aQ1twiBJyPLTS2-24" value="System drukuje wypis i wprowadza dane do systemu." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Zpw6BI1jtUPrYjQRKkdR-1">
-          <mxGeometry x="112.5" y="1220" width="120" height="60" as="geometry" />
+          <mxGeometry x="112.5" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OW8d97aQ1twiBJyPLTS2-28" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="Zpw6BI1jtUPrYjQRKkdR-1">
-          <mxGeometry x="156.25" y="1310" width="30" height="30" as="geometry" />
+          <mxGeometry x="156.25" y="1210" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
