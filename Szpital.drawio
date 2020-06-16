@@ -1,6 +1,6 @@
-<mxfile modified="2020-06-16T13:27:05.440Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="vohfw-a6OJH3HaJZ_BHz" version="13.2.4" type="github" pages="2">
+<mxfile modified="2020-06-16T13:30:00.155Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="fw8qcZHZp2iUhvxOZxpv" version="13.2.4" type="github" pages="2">
   <diagram id="T34uIwSaDnBM8WevRqWh" name="class">
-    <mxGraphModel dx="1865" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3422" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -609,7 +609,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FM_yI3zF8epU7L87QcL2" name="actor">
-    <mxGraphModel dx="1221" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="-R-MOfN5qlVxSGHxa36g-0" />
         <mxCell id="-R-MOfN5qlVxSGHxa36g-1" parent="-R-MOfN5qlVxSGHxa36g-0" />
@@ -692,9 +692,6 @@
         <mxCell id="azWlfcGg9LfdyFCjQurN-16" value="Zarejestruj pacjenta" style="ellipse;whiteSpace=wrap;html=1;" parent="-R-MOfN5qlVxSGHxa36g-1" vertex="1">
           <mxGeometry x="300" y="415" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="azWlfcGg9LfdyFCjQurN-17" value="Głosuj na nowego ordynatora" style="ellipse;whiteSpace=wrap;html=1;" parent="-R-MOfN5qlVxSGHxa36g-1" vertex="1">
-          <mxGeometry x="470" y="670" width="140" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="azWlfcGg9LfdyFCjQurN-18" value="Wypisz pacjenta" style="ellipse;whiteSpace=wrap;html=1;" parent="-R-MOfN5qlVxSGHxa36g-1" vertex="1">
           <mxGeometry x="500" y="840" width="140" height="70" as="geometry" />
         </mxCell>
@@ -717,12 +714,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="625" as="sourcePoint" />
             <mxPoint x="560" y="575" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="azWlfcGg9LfdyFCjQurN-28" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="-R-MOfN5qlVxSGHxa36g-1" source="azWlfcGg9LfdyFCjQurN-0" target="azWlfcGg9LfdyFCjQurN-17" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="635" as="sourcePoint" />
-            <mxPoint x="570" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="azWlfcGg9LfdyFCjQurN-29" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="-R-MOfN5qlVxSGHxa36g-1" source="azWlfcGg9LfdyFCjQurN-0" target="azWlfcGg9LfdyFCjQurN-22" edge="1">
