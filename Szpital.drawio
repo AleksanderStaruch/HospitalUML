@@ -1,4 +1,4 @@
-<mxfile modified="2020-06-16T16:15:14.994Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="5ElzKamZsL_i2n9hU1T5" version="13.2.4" type="github" pages="3">
+<mxfile modified="2020-06-16T16:17:23.796Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="pp7TbOfBjybTZrMNzLr9" version="13.2.4" type="github" pages="3">
   <diagram id="T34uIwSaDnBM8WevRqWh" name="class">
     <mxGraphModel dx="1692" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -813,12 +813,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="152.5" y="709.9999999999998" as="sourcePoint" />
             <mxPoint x="667.5" y="515" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7ySR9jCH0MhhiTOHKrQ3-2" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="-R-MOfN5qlVxSGHxa36g-1" source="azWlfcGg9LfdyFCjQurN-0" target="azWlfcGg9LfdyFCjQurN-24">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="75" y="799.9999999999998" as="sourcePoint" />
-            <mxPoint x="498.75297669233464" y="681.9469918861012" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7ySR9jCH0MhhiTOHKrQ3-3" value="Wystawić receptę." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="-R-MOfN5qlVxSGHxa36g-1">
