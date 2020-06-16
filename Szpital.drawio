@@ -1,4 +1,4 @@
-<mxfile modified="2020-06-16T20:36:14.531Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="MEFcAQSuPcz4oWkuQGUW" version="13.2.4" type="github" pages="6">
+<mxfile modified="2020-06-16T20:40:37.559Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="wXC4sfYiOJKVoShJ7XCA" version="13.2.4" type="github" pages="6">
   <diagram id="T34uIwSaDnBM8WevRqWh" name="class">
     <mxGraphModel dx="1692" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1232,7 +1232,7 @@
         <mxCell id="EYaloMnsM9M-CPf3lC7p-4" value="&lt;span style=&quot;text-align: left&quot;&gt;anulowany&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="_NE3Mbc4S-dP9e7G5CS_-1">
           <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H1ne2S2X2iC1kipdPPOG-2" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="_NE3Mbc4S-dP9e7G5CS_-1">
+        <mxCell id="H1ne2S2X2iC1kipdPPOG-2" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="_NE3Mbc4S-dP9e7G5CS_-1">
           <mxGeometry x="660" y="170" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
