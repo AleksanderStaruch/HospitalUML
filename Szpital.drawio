@@ -1,6 +1,6 @@
-<mxfile modified="2020-06-16T11:29:14.784Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="lE2XnR8b3leqAklwRSTl" version="13.2.4" type="github" pages="2">
+<mxfile modified="2020-06-16T11:34:48.048Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="R_iTOFiTAeXVEdZ0wT3g" version="13.2.4" type="github" pages="2">
   <diagram id="T34uIwSaDnBM8WevRqWh" name="class">
-    <mxGraphModel dx="3422" dy="1390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1865" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,6 +97,15 @@
             <mxPoint x="133.5" y="277.8529411764706" as="sourcePoint" />
             <mxPoint x="208.5" y="279.61764705882354" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UwL4nr-0CrQPaEN5aRNv-2" value="Terminarz pracowników" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="-180" y="338" width="154" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="UwL4nr-0CrQPaEN5aRNv-3" value="dataprzeprowadzenia" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="UwL4nr-0CrQPaEN5aRNv-2" vertex="1">
+          <mxGeometry y="26" width="154" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bHVNC20wXIVItzgnzhsU-35" value="data zakończenia" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="UwL4nr-0CrQPaEN5aRNv-2" vertex="1">
+          <mxGeometry y="52" width="154" height="26" as="geometry" />
         </mxCell>
         <mxCell id="V0LmtOdD6tVDb5vqFVER-222" value="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="1" vertex="1">
           <mxGeometry x="-410" y="1086" width="30" height="26" as="geometry" />
@@ -595,18 +604,6 @@
         </mxCell>
         <mxCell id="V0LmtOdD6tVDb5vqFVER-237" value="Telefon" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="V0LmtOdD6tVDb5vqFVER-1" vertex="1">
           <mxGeometry y="78" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="UwL4nr-0CrQPaEN5aRNv-2" value="Terminarz pracowników" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="-180" y="324.5" width="154" height="104" as="geometry" />
-        </mxCell>
-        <mxCell id="UwL4nr-0CrQPaEN5aRNv-3" value="dataprzeprowadzenia" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="UwL4nr-0CrQPaEN5aRNv-2" vertex="1">
-          <mxGeometry y="26" width="154" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="bHVNC20wXIVItzgnzhsU-34" value="godzina rozpoczęcia" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="UwL4nr-0CrQPaEN5aRNv-2" vertex="1">
-          <mxGeometry y="52" width="154" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="bHVNC20wXIVItzgnzhsU-35" value="godzina zakończenia" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="UwL4nr-0CrQPaEN5aRNv-2" vertex="1">
-          <mxGeometry y="78" width="154" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
